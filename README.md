@@ -1,2 +1,2 @@
 # Plants VS Zombies
-基于C语言和easyX图形库开发的植物大战僵尸，可以实现向日葵，单发豌豆射手，双重豌豆射手，三重豌豆射手，火爆辣椒等植物
+Plants vs. Zombies developed based on C language and EasyX graphics library, which can achieve sunflower, single shot pea shooter, double shot pea shooter, triple shot pea shooter, hot pepper and other plants
